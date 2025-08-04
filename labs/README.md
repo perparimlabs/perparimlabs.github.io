@@ -7,3 +7,4 @@ Hands-on technical labs demonstrating:
 - Microsoft Defender for Cloud
 - Hybrid Identity & Entra Connect
 - Microsoft Sentinel & Intune
+- [🔐 Lab Protecting Identities with Microsoft Entra ID Protection (PDF)](./entra-id-protection-lab.pdf)
