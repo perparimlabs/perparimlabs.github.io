@@ -16,5 +16,6 @@ Hands-on technical labs demonstrating:
 - 🧼 [Lab Clean Before You Sync – Hybrid Identity Checklist (PDF)](Clean%20Before%20You%20Syn%20-%20Real-World%20Checklist%20for%20Hybrid%20Identity.pdf)
 - 🔐 [Lab Hybrid Identity – Choosing the Right Authentication Method (PDF)](Hybrid%20Identity%20Choosing%20the%20Right%20Authentication%20Method.pdf)
 - 🧠 [Lab Planning Your First Hybrid Identity Sync (PDF)](Planning%20Your%20First%20Hybrid%20Identity%20Sync.pdf)
+- 🔄 [Lab Microsoft Entra Connect – Hybrid Identity Sync (PDF)](Microsoft%20Entra%20Connect%20Lab.pdf)
 
 
