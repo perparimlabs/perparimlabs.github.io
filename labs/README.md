@@ -13,5 +13,6 @@ Hands-on technical labs demonstrating:
 - [🔐 Lab Demo – Integrating On-Prem AD with Microsoft 365 Domain Sync (PDF)](./Lab%20Demo%20Integrating%20On-Prem%20AD%20with%20Microsoft%20365%20-%20Domain%20name.pdf)
 - 🔒 [Lab Choosing the Right Azure AD Authentication Method (PDF)](Choosing-the-Right-AzureAD-Authentication-Method/Choosing-the-Right-AzureAD-Authentication-Method.pdf)
 - 🔒 [Lab Microsoft Entra ID Protection – User Risk Policy (PDF)](Entra-ID-Protection-User-Risk-Policy/Microsoft%20Entra%20ID%20Protection%20User%20Risk%20Policy%20Demo.pdf)
+- 🧼 [Lab Clean Before You Sync – Hybrid Identity Checklist (PDF)](Clean%20Before%20You%20Syn%20-%20Real-World%20Checklist%20for%20Hybrid%20Identity.pdf)
 
 
