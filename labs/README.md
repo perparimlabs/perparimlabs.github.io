@@ -9,4 +9,4 @@ Hands-on technical labs demonstrating:
 - Microsoft Sentinel & Intune
 - [🔐 Lab Protecting Identities with Microsoft Entra ID Protection (PDF)](./entra-id-protection-lab.pdf)
 - [🔐 Lab Enable and Test MFA in Microsoft Entra ID (PDF)](./Lab%20Enable%20and%20Test%20MFA%20in%20Microsoft%20Entra%20ID.pdf)
-Lab Enforce MFA for Specific App - Entra ID
+Lab Enforce MFA for Specific App - Entra ID.pdf
