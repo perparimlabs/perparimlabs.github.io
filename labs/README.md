@@ -20,5 +20,6 @@ Hands-on technical labs demonstrating:
 - 🔄 [Lab Microsoft Entra Connect vs. Cloud Sync – What’s the Difference (PDF)](Microsoft%20Entra%20Connect%20vs.%20Cloud%20Sync%20–%20What’s%20the%20Difference.pdf)
 - 🛠 [Troubleshooting Microsoft Entra Connect Health Sync Error (PDF)](labs/Troubleshooting%20Microsoft%20Entra%20Connect%20Health%20Sync%20Error/Troubleshooting%20Microsoft%20Entra%20Connect%20Health%20Sync%20Error.pdf)
 - 🔐 [Lab Enable and Test MFA in Microsoft Entra ID (PDF)](Lab%20Enable%20and%20Test%20MFA%20in%20Microsoft%20Entra%20ID/Lab%20Enable%20and%20Test%20MFA%20in%20Microsoft%20Entra%20ID.pdf)
+- 🔐 [Advanced Identity Protection in Microsoft Entra ID (PDF)](Advanced%20Identity%20Protection%20in%20Microsoft%20Entra%20ID/Advanced%20Identity%20Protection%20in%20Microsoft%20Entra%20ID.pdf)
 
 
