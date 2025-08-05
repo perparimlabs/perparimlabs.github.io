@@ -23,5 +23,6 @@ Hands-on technical labs demonstrating:
 - 🔐 [Lab Enable and Test MFA in Microsoft Entra ID (PDF)](Lab%20Enable%20and%20Test%20MFA%20in%20Microsoft%20Entra%20ID/Lab%20Enable%20and%20Test%20MFA%20in%20Microsoft%20Entra%20ID.pdf)
 - 🔐 [Advanced Identity Protection in Microsoft Entra ID (PDF)](Advanced%20Identity%20Protection%20in%20Microsoft%20Entra%20ID/Advanced%20Identity%20Protection%20in%20Microsoft%20Entra%20ID.pdf)
 - 🚫 [Why We Replace Security Defaults with Conditional Access in Real Environments (PDF)](Why%20We%20Replace%20Security%20Defaults%20with%20Conditional%20Access%20in%20Real%20Environments/Why%20We%20Replace%20Security%20Defaults%20with%20Conditional%20Access%20in%20Real%20Environments.pdf)
+- [Protecting Identities with Microsoft Entra ID Protection (PDF)](labs/Protecting-Identities-Microsoft-Entra-ID-Protection.pdf)
 
 
