@@ -18,5 +18,6 @@ Hands-on technical labs demonstrating:
 - 🧠 [Lab Planning Your First Hybrid Identity Sync (PDF)](Planning%20Your%20First%20Hybrid%20Identity%20Sync.pdf)
 - 🔄 [Lab Microsoft Entra Connect – Hybrid Identity Sync (PDF)](Microsoft%20Entra%20Connect%20Lab.pdf)
 - 🔄 [Lab Microsoft Entra Connect vs. Cloud Sync – What’s the Difference (PDF)](Microsoft%20Entra%20Connect%20vs.%20Cloud%20Sync%20–%20What’s%20the%20Difference.pdf)
+- - 🛠 [Troubleshooting Microsoft Entra Connect Health Sync Error (PDF)](labs/Troubleshooting%20Microsoft%20Entra%20Connect%20Health%20Sync%20Error/Troubleshooting%20Microsoft%20Entra%20Connect%20Health%20Sync%20Error.pdf)
 
 
