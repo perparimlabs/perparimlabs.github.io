@@ -24,6 +24,6 @@ Hands-on technical labs demonstrating:
 - 🛠️ [Custom Azure RBAC Role for Key Vault Secrets Access (PDF)](custom-rbac-keyvault-access.pdf)
 - 🔐 [Secure Azure Access Using Managed Identity (PDF)](secure-azure-access-managed-identity.pdf)
 - 🔐 [Manage Access to Enterprise Applications in Microsoft Entra (PDF)](manage-access-enterprise-apps.pdf)
-- [Secure Remote Access with Entra App Proxy (PDF)](Secure%20Remote%20Access%20with%20Entra%20App%20Proxy/Secure%20Remote%20Access%20with%20Entra%20App%20Proxy.pdf)
+- 🌐 [Secure Remote Access with Entra App Proxy (PDF)](secure-remote-access-app-proxy.pdf)
 - 🧪 [Troubleshooting Microsoft Entra Connect Health Sync Error (PDF)](troubleshoot-entra-connect-health.pdf)
 - 🔐 [Enable and Test MFA in Microsoft Entra ID (PDF)](enable-test-mfa-entra-id.pdf)
