@@ -21,7 +21,7 @@ Hands-on technical labs demonstrating:
 - 🔐 [Advanced Identity Protection in Microsoft Entra ID (PDF)](advanced-identity-protection-entra-id.pdf)
 - 🚫 [Why We Replace Security Defaults with Conditional Access (PDF)](replace-security-defaults-conditional-access.pdf)
 - 🛡️ [Protecting Identities with Microsoft Entra ID Protection (PDF)](protecting-identities-entra-id.pdf)
-- [Custom Azure RBAC Role for Key Vault Secrets Access (PDF)](Custom%20Azure%20RBAC%20Role%20for%20Key%20Vault%20Secrets%20Access/Custom%20Azure%20RBAC%20Role%20for%20Key%20Vault%20Secrets%20Access.pdf)
+- 🛠️ [Custom Azure RBAC Role for Key Vault Secrets Access (PDF)](custom-rbac-keyvault-access.pdf)
 - [Secure Azure Access Using Managed Identity (PDF)](Secure%20Azure%20Access%20Using%20Managed%20Identity/Secure%20Azure%20Access%20Using%20Managed%20Identity.pdf)
 - [Manage Access to Enterprise Applications (PDF)](Manage%20Access%20to%20Enterprise%20Applications/Manage%20Access%20to%20Enterprise%20Applications.pdf)
 - [Secure Remote Access with Entra App Proxy (PDF)](Secure%20Remote%20Access%20with%20Entra%20App%20Proxy/Secure%20Remote%20Access%20with%20Entra%20App%20Proxy.pdf)
