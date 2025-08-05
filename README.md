@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="perparimlabs-banner.png" alt="PerparimLabs Banner" style="max-width:100%;">
+</p>
+
 # 🌐 PerparimLabs - Azure & Cloud Security Blog
 
 Welcome to my portfolio!  
