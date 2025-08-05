@@ -25,5 +25,6 @@ Hands-on technical labs demonstrating:
 - [Protecting Identities with Microsoft Entra ID Protection (PDF)](labs/Protecting-Identities-Microsoft-Entra-ID-Protection.pdf)
 - [Custom Azure RBAC Role for Key Vault Secrets Access (PDF)](Custom%20Azure%20RBAC%20Role%20for%20Key%20Vault%20Secrets%20Access/Custom%20Azure%20RBAC%20Role%20for%20Key%20Vault%20Secrets%20Access.pdf)
 - [Secure Azure Access Using Managed Identity (PDF)](Secure%20Azure%20Access%20Using%20Managed%20Identity/Secure%20Azure%20Access%20Using%20Managed%20Identity.pdf)
+- [Manage Access to Enterprise Applications (PDF)](Manage%20Access%20to%20Enterprise%20Applications/Manage%20Access%20to%20Enterprise%20Applications.pdf)
 
 
