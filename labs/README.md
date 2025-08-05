@@ -25,4 +25,4 @@ Hands-on technical labs demonstrating:
 - 🔐 [Manage Access to Enterprise Applications in Microsoft Entra (PDF)](manage-access-enterprise-apps.pdf)
 - 🌐 [Secure Remote Access with Entra App Proxy (PDF)](secure-remote-access-app-proxy.pdf)
 - 🧪 [Troubleshooting Microsoft Entra Connect Health Sync Error (PDF)](troubleshoot-entra-connect-health.pdf)
-- 🔐 [Enable and Test MFA in Microsoft Entra ID (PDF)](enable-test-mfa-entra-id.pdf)
+- 🔐 [Lab Enable and Test MFA in Microsoft Entra ID (PDF)](enable-test-mfa-entra-id.pdf)
