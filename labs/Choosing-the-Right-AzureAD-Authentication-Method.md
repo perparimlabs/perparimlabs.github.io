@@ -1,3 +1,4 @@
+README.md
 # 🔐 Choosing the Right Azure AD Authentication Method for Hybrid Identity
 
 This short lab explains the three main authentication methods used when syncing on-prem Active Directory with Microsoft Entra ID (Azure AD):
