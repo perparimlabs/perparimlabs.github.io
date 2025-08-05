@@ -8,7 +8,7 @@ Hands-on technical labs demonstrating:
 - Hybrid Identity & Entra Connect
 - Microsoft Sentinel & Intune
 - 🛰️ [Deploy Microsoft Global Secure Access Client (PDF)](deploy-global-secure-access-client.pdf)
-- [Lab Enforce MFA for Specific App - Entra ID (PDF)](enforce-mfa-for-specific-app.)
+- [Lab Enforce MFA for Specific App - Entra ID (PDF)](enforce-mfa-for-specific-app.pdf)
 - 🔄 [Lab Demo – Integrating On-Prem AD with Microsoft 365 Domain Sync (PDF)](demo-integrate-onprem-entra365-sync.pdf)
 - 🔒 [Lab Choosing the Right Azure AD Authentication Method (PDF)](Choosing-the-Right-AzureAD-Authentication-Method/Choosing-the-Right-AzureAD-Authentication-Method.pdf)
 - 🔒 [Lab Microsoft Entra ID Protection – User Risk Policy (PDF)](Entra-ID-Protection-User-Risk-Policy/Microsoft%20Entra%20ID%20Protection%20User%20Risk%20Policy%20Demo.pdf)
