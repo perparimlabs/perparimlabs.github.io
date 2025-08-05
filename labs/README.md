@@ -18,7 +18,7 @@ Hands-on technical labs demonstrating:
 - 🧠 [Lab Planning Your First Hybrid Identity Sync (PDF)](Planning%20Your%20First%20Hybrid%20Identity%20Sync.pdf)
 - 🔄 [Lab Microsoft Entra Connect – Hybrid Identity Sync (PDF)](Microsoft%20Entra%20Connect%20Lab.pdf)
 - 🔄 [Lab Microsoft Entra Connect vs. Cloud Sync – What’s the Difference (PDF)](Microsoft%20Entra%20Connect%20vs.%20Cloud%20Sync%20–%20What’s%20the%20Difference.pdf)
-- 🔐 [Advanced Identity Protection in Microsoft Entra ID (PDF)](Advanced%20Identity%20Protection%20in%20Microsoft%20Entra%20ID/Advanced%20Identity%20Protection%20in%20Microsoft%20Entra%20ID.pdf)
+- 🔐 [Advanced Identity Protection in Microsoft Entra ID (PDF)](advanced-identity-protection-entra-id.pdf)
 - 🚫 [Why We Replace Security Defaults with Conditional Access in Real Environments (PDF)](Why%20We%20Replace%20Security%20Defaults%20with%20Conditional%20Access%20in%20Real%20Environments/Why%20We%20Replace%20Security%20Defaults%20with%20Conditional%20Access%20in%20Real%20Environments.pdf)
 - [Protecting Identities with Microsoft Entra ID Protection (PDF)](labs/Protecting-Identities-Microsoft-Entra-ID-Protection.pdf)
 - [Custom Azure RBAC Role for Key Vault Secrets Access (PDF)](Custom%20Azure%20RBAC%20Role%20for%20Key%20Vault%20Secrets%20Access/Custom%20Azure%20RBAC%20Role%20for%20Key%20Vault%20Secrets%20Access.pdf)
