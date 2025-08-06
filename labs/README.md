@@ -18,3 +18,4 @@ Hands-on technical labs demonstrating:
 - 🔐 [Manage Access to Enterprise Applications in Microsoft Entra (PDF)](manage-access-enterprise-apps.pdf)
 - 🧪 [Troubleshooting Microsoft Entra Connect Health Sync Error (PDF)](troubleshoot-entra-connect-health.pdf)
 - 🧪 [Lab Enable and Test MFA in Microsoft Entra ID (PDF)](enable-test-mfa-entra-id.pdf)
+-🛡️ [Lab Enforce MFA for Specific App – Entra ID (PDF)](Lab-Enforce-MFA-for-Specific-App---Entra-ID.pdf)
