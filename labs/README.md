@@ -23,6 +23,6 @@ Hands-on technical labs demonstrating:
 - 🔐 [Lab Microsoft Entra ID Protection – User Risk Policy (PDF)](Entra-ID-Protection-User-Risk-Policy-Demo.pdf)
 - 🧩 [Lab Microsoft Entra Connect – Hybrid Identity Sync (PDF)](Microsoft-Entra-Connect-Hybrid-Identity-Sync.pdf)
 - 🌐 [Secure Remote Access with Entra App Proxy (PDF)](secure-remote-access-app-proxy.pdf)
-- 🛡️ [Protecting Identities with Microsoft Entra ID Protection (PDF)](protecting-identities-entra-id.pdf)
+- 🛡️ [Protecting Identities with Microsoft Entra ID Protection (PDF)](entra-id-protection-identities.pdf)
 - 🛠️ [Custom Azure RBAC Role for Key Vault Secrets Access (PDF)](custom-rbac-keyvault-access.pdf)
 - 🔐 [Secure Azure Access Using Managed Identity (PDF)](secure-azure-access-managed-identity.pdf)
