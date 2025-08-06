@@ -23,3 +23,4 @@ Hands-on technical labs demonstrating:
 - 🔐 [Lab Microsoft Entra ID Protection – User Risk Policy (PDF)](Entra-ID-Protection-User-Risk-Policy-Demo.pdf)
 - 🧩 [Lab Microsoft Entra Connect – Hybrid Identity Sync (PDF)](Microsoft-Entra-Connect-Hybrid-Identity-Sync.pdf)
 - 🌐 [Secure Remote Access with Entra App Proxy (PDF)](secure-remote-access-app-proxy.pdf)
+- 🛡️ [Protecting Identities with Microsoft Entra ID Protection (PDF)](protecting-identities-entra-id.pdf)
