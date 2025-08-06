@@ -35,6 +35,7 @@ Hands-on technical labs demonstrating:
 - [Grant Just-in-Time Admin Access with Microsoft Entra PIM](grant-jit-access-pim.pdf)
 - 🚨[ Never Get Locked Out: Create a Break Glass Admin Account](never-get-locked-out-break-glass-admin.pdf)
 - 🔍 [Monitor Sign-Ins and Admin Activity in Microsoft Entra ID](monitor-sign-ins-admin-activity-entra.pdf)
+- 🛡️[ Get Proactive with Microsoft Sentinel](get-proactive-with-microsoft-sentinel.pdf)
 
 
 
