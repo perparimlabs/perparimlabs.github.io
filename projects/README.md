@@ -7,3 +7,4 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 - 🎯 [Mastering Identity Governance with Microsoft Entra](mastering-identity-governance-entra.pdf)
 - [Clean Up Guest Access with Microsoft Entra Access Reviews](clean-up-guest-access-entra.pdf)
 - [Grant Just-in-Time Admin Access with Microsoft Entra PIM](grant-jit-access-pim.pdf)
+- 🚨[ Never Get Locked Out: Create a Break Glass Admin Account](never-get-locked-out-break-glass-admin.pdf)
