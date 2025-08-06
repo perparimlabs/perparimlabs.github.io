@@ -28,7 +28,7 @@ Hands-on technical labs demonstrating:
 - 🔐 [Secure Azure Access Using Managed Identity (PDF)](secure-azure-access-managed-identity.pdf)
 - 🔐 [End-to-End SaaS Application Management in Microsoft Entra](end-to-end-saas-management-entra.pdf)
 - ☁️ [Secure Your SaaS with Microsoft Defender for Cloud Apps](Secure-Your-SaaS-with-Microsoft-Defender-for-Cloud-Apps.pdf)
-- 🔎 [Discover What Your Users Are Really Doing in the Cloud](discover-what-users-are-doing-in-the-cloud.pdf)
+- 🔎 [Discover What Your Users Are Really Doing in the Cloud](discover-what-your-users-are-doing-in-the-cloud.pdf)
 
 
 
