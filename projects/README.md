@@ -4,6 +4,7 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 
 -🏗️[ Architect a Secure, Scalable Azure Landing Zone for Enterprise Migration](architect-a-secure-scalable-azure-landing-zone-for-enterprise-migration.pdf)
 - 🛡️[ Secure Access with Microsoft Entra: Zero Trust in Action](secure-access-entra-zero-trust.pdf)
+- 🧰[ Architecting Zero Trust in Azure: Real-World Scenario for Secure Access & Device Protection](Architecting-Zero-Trust-Azure-ZT-Real-World.pdf)
 - 📘 [Microsoft Entra Connect Lab (PDF)](Microsoft%20Entra%20Connect%20Lab.pdf) | [Project Overview (MD)](Microsoft%20Entra%20Connect%20Lab.md)
 - 🛠 [Troubleshooting Microsoft Entra Connect Health Sync Error (PDF)](projects/Troubleshooting%20Microsoft%20Entra%20Connect%20Health%20Sync%20Error/Troubleshooting%20Microsoft%20Entra%20Connect%20Health%20Sync%20Error.pdf)
 - 🔐 [Advanced Identity Protection in Microsoft Entra ID (PDF)](Advanced%20Identity%20Protection%20in%20Microsoft%20Entra%20ID/Advanced%20Identity%20Protection%20in%20Microsoft%20Entra%20ID.pdf)
