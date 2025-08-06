@@ -27,6 +27,8 @@ Hands-on technical labs demonstrating:
 - 🛠️ [Custom Azure RBAC Role for Key Vault Secrets Access (PDF)](custom-rbac-keyvault-access.pdf)
 - 🔐 [Secure Azure Access Using Managed Identity (PDF)](secure-azure-access-managed-identity.pdf)
 - 🔐 [End-to-End SaaS Application Management in Microsoft Entra](end-to-end-saas-management-entra.pdf)
+- ☁️ [Secure Your SaaS with Microsoft Defender for Cloud Apps](Secure-Your-SaaS-with-Microsoft-Defender-for-Cloud-Apps.pdf)
+
 
 
 
