@@ -31,6 +31,7 @@ Hands-on technical labs demonstrating:
 - 🔎 [Discover What Your Users Are Really Doing in the Cloud](discover-what-your-users-are-really-doing-in-the-cloud.pdf)
 - 🔐 [Real-Time SaaS Threat Protection with Microsoft Defender for Cloud Apps](real-time-saas-threat-protection-with-microsoft-defender-for-cloud-app.pdf)
 - 🎯 [Mastering Identity Governance with Microsoft Entra](mastering-identity-governance-entra.pdf)
+- [Clean Up Guest Access with Microsoft Entra Access Reviews](clean-up-guest-access-entra.pdf)
 
 
 
