@@ -29,7 +29,7 @@ Hands-on technical labs demonstrating:
 - 🔐 [End-to-End SaaS Application Management in Microsoft Entra](end-to-end-saas-management-entra.pdf)
 - ☁️ [Secure Your SaaS with Microsoft Defender for Cloud Apps](Secure-Your-SaaS-with-Microsoft-Defender-for-Cloud-Apps.pdf)
 - 🔎 [Discover What Your Users Are Really Doing in the Cloud](discover-what-your-users-are-really-doing-in-the-cloud.pdf)
-- 🔐 [Real-Time SaaS Threat Protection with Microsoft Defender for Cloud Apps](Real-Time-SaaS-Threat-Protection-with-Microsoft-Defender-for-Cloud-Apps.pdf)
+- 🔐 [Real-Time SaaS Threat Protection with Microsoft Defender for Cloud Apps](real-time-saas-threat-protection-with-microsoft-defender-for-cloud-app.pdf)
 
 
 
