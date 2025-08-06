@@ -37,6 +37,7 @@ Hands-on technical labs demonstrating:
 - 🔍 [Monitor Sign-Ins and Admin Activity in Microsoft Entra ID](monitor-sign-ins-admin-activity-entra.pdf)
 - 🛡️[ Get Proactive with Microsoft Sentinel](get-proactive-with-microsoft-sentinel.pdf)
 - 🛡️[ Set Up Microsoft Sentinel + Log Analytics](set-up-microsoft-sentinel-log-analytics.pdf)
+- [Migrate from Legacy MFA & SSPR to Microsoft Entra Authentication Methods](migrate-from-legacy-mfa-sspr-entra-authentication-methods.pdf)
 
 
 
