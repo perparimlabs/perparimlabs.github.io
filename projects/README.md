@@ -15,4 +15,5 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 - 🔍[ Monitor Sign-Ins and Admin Activity in Microsoft Entra ID](monitor-sign-ins-admin-activity-entra.pdf)
 - 🛡️[ Get Proactive with Microsoft Sentinel](get-proactive-with-microsoft-sentinel.pdf)
 - 🛡️[ Set Up Microsoft Sentinel + Log Analytics](set-up-microsoft-sentinel-log-analytics.pdf)
+- 📊[ Architecting Business Resilience in Azure & Microsoft 365](architecting-business-resilience.md)
 
