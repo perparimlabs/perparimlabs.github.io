@@ -20,3 +20,4 @@ Hands-on technical labs demonstrating:
 - 🧪 [Lab Enable and Test MFA in Microsoft Entra ID (PDF)](enable-test-mfa-entra-id.pdf)
 - 🛡️ [Lab Enforce MFA for Specific App – Entra ID (PDF)](Lab-Enforce-MFA-for-Specific-App---Entra-ID.pdf)
 - 🔐 [Lab Choosing the Right Azure AD Authentication Method (PDF)](Choosing-the-Right-AzureAD-Authentication-Method.pdf)
+- 🔐 [Lab Microsoft Entra ID Protection – User Risk Policy (PDF)](Entra-ID-Protection-User-Risk-Policy-Demo.pdf)
