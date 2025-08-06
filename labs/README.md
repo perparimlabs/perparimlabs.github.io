@@ -19,4 +19,4 @@ Hands-on technical labs demonstrating:
 - 🧪 [Troubleshooting Microsoft Entra Connect Health Sync Error (PDF)](troubleshoot-entra-connect-health.pdf)
 - 🧪 [Lab Enable and Test MFA in Microsoft Entra ID (PDF)](enable-test-mfa-entra-id.pdf)
 - 🛡️ [Lab Enforce MFA for Specific App – Entra ID (PDF)](Lab-Enforce-MFA-for-Specific-App---Entra-ID.pdf)
-- 🔐 [Lab Choosing the Right Azure AD Authentication Method (PDF)](labs/Choosing-the-Right-AzureAD-Authentication-Method.pdf)
+- 🔐 [Lab Choosing the Right Azure AD Authentication Method (PDF)](Choosing-the-Right-AzureAD-Authentication-Method.pdf)
