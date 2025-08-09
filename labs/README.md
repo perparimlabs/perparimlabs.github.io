@@ -40,6 +40,10 @@ Hands-on technical labs demonstrating:
 - [Migrate from Legacy MFA & SSPR to Microsoft Entra Authentication Methods](migrate-from-legacy-mfa-sspr-entra-authentication-methods.pdf)
 
 
+---
+
+© **#PerparimLabs** – Built with passion for **Azure, Microsoft Security, and the Cloud Community**.  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/perparim-abdullahu-2b0530324) | Explore more at [GitHub Pages](https://perparimlabs.github.io)
 
 
 
