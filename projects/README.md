@@ -7,7 +7,7 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 - 🧰[ Architecting Zero Trust in Azure: Real-World Scenario for Secure Access & Device Protection](Architecting-Zero-Trust-Azure-ZT-Real-World.pdf)
 - 📘 [Microsoft Entra Connect Lab (PDF)](Microsoft%20Entra%20Connect%20Lab.pdf) | [Project Overview (MD)](Microsoft%20Entra%20Connect%20Lab.md)
 - 🛠 [Troubleshooting Microsoft Entra Connect Health Sync Error (PDF)](Troubleshooting_Entra_Connect_Health_Sync_Error.pdf)
-- 🔐 [Advanced Identity Protection in Microsoft Entra ID (PDF)](Advanced%20Identity%20Protection%20in%20Microsoft%20Entra%20ID.pdf)
+- 🔐 [Advanced Identity Protection in Microsoft Entra ID (PDF)](Advanced-Identity-Protection-Microsoft-Entra-ID.pdf)
 - 🎯 [Mastering Identity Governance with Microsoft Entra](mastering-identity-governance-entra.pdf)
 - [Clean Up Guest Access with Microsoft Entra Access Reviews](clean-up-guest-access-entra.pdf)
 - [Grant Just-in-Time Admin Access with Microsoft Entra PIM](grant-jit-access-pim.pdf)
