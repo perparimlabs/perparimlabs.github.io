@@ -22,4 +22,4 @@ I share hands-on labs, architecture breakdowns, and Zero Trust strategies using:
 
 > ✅ *I built this page so everyone can explore my work even outside of LinkedIn.*
 
-🛰️ [Deploy Microsoft Global Secure Access Client (PDF)](deploy-global-secure-access-client.pdf)
+[🛰️ [Deploy Microsoft Global Secure Access Client (PDF)](deploy-global-secure-access-client.pdf)](https://github.com/perparimlabs/perparimlabs.github.io/blob/main/labs/deploy-global-secure-access-client.pdf)
