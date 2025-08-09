@@ -21,3 +21,7 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 
 
 
+---
+
+© **#PerparimLabs** – Built with passion for **Azure, Microsoft Security, and the Cloud Community**.  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/perparim-abdullahu-2b0530324) | Explore more at [GitHub Pages](https://perparimlabs.github.io)
