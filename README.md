@@ -2,9 +2,28 @@
   <img src="perparimlabs-banner.png" alt="PerparimLabs Banner" style="max-width:100%;">
 </p>
 
-# PerparimLabs – Azure & Cloud Security Blog
+# 👋 Welcome to PerparimLabs
 
-Welcome to my portfolio!  
+I’m **Perparim Abdullahu**, founder of **#PerparimLabs**, a Microsoft Certified Azure Solutions Architect Expert specializing in **Cloud Security, Identity Governance, and Zero Trust Architecture**.  
+This portfolio showcases my **hands-on labs** and **real-world architecture projects** built to solve modern enterprise challenges in **Azure, Microsoft Entra, and Microsoft Security**.
+
+---
+
+## 📂 Explore My Work
+
+- **[Labs](https://perparimlabs.github.io/labs/)** – Step-by-step demonstrations covering Azure, Microsoft Entra, and Security scenarios, designed to be clear, practical, and interview-ready.
+- **[Projects](https://perparimlabs.github.io/projects/)** – End-to-end real-world Azure and Security architecture projects with diagrams, strategies, and technical documentation.
+
+---
+
+💡 *Each item is created under the **#PerparimLabs** brand and includes context, technical breakdowns, and visuals to help you see exactly how the solution works.*
+
+---
+
+### 📌 Footer
+© **#PerparimLabs** – Built with passion for **Azure, Microsoft Security, and the Cloud Community**.  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/perparim-abdullahu-2b0530324) | Explore more at [GitHub Pages](https://perparimlabs.github.io)
+  
 I share hands-on labs, architecture breakdowns, and Zero Trust strategies using:
 
 - ☁ **Microsoft Entra ID**
