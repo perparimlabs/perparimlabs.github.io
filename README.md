@@ -2,25 +2,21 @@
   <img src="perparimlabs-banner.png" alt="PerparimLabs Banner" style="max-width:100%;">
 </p>
 
-# 🌐 PerparimLabs - Azure & Cloud Security Blog
+# PerparimLabs – Azure & Cloud Security Blog
 
 Welcome to my portfolio!  
 I share hands-on labs, architecture breakdowns, and Zero Trust strategies using:
 
-- ☁️ **Microsoft Entra ID**
+- ☁ **Microsoft Entra ID**
 - 🔐 **Conditional Access & Identity Protection**
-- 🛡️ **Microsoft Defender for Cloud**
+- 🛡 **Microsoft Defender for Cloud**
 - 🔄 **Hybrid Identity & Entra Connect**
-- 🔧 **SC-300 & SC-100 lab demos**
-- 📸 LinkedIn carousel breakdowns
+- 🧪 **SC-300 & SC-100 lab demos**
+- 🧵 LinkedIn carousel breakdowns
 
-📍 Based in Louisville, KY | 🇺🇸  
-🔗 Connect with me on [LinkedIn](https://linkedin.com/in/perparim-abdullahu-2b0530324)  
-📚 SC-100 in progress | Microsoft Certified: SC-300, AZ-305, AZ-104
-
----
-
-> ✅ *I built this page so everyone can explore my work even outside of LinkedIn.*
+📍 Based in Louisville, KY (US)  
+🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/perparim-abdullahu-2b0530324/)**  
+🎓 SC-100 in progress | Microsoft Certified: SC-300, AZ-305, AZ-104
 
 ---
 
@@ -35,20 +31,20 @@ Hands-on technical labs demonstrating:
 - Microsoft Sentinel & Intune  
 
 - 🖥 [Deploy Microsoft Global Secure Access Client (PDF)](https://perparimlabs.github.io/labs/deploy-global-secure-access-client.pdf)  
-- 🖥 [Lab Demo - Integrating On-Prem AD with Microsoft 365 Domain Sync (PDF)](https://perparimlabs.github.io/labs/demo-integrate-onprem-entra365-sync.pdf)  
-- 🗒 [Lab Clean Before You Sync - Hybrid Identity Checklist (PDF)](https://perparimlabs.github.io/labs/Clean%20Before%20You%20Sync%20-%20Real-World%20Checklist%20for%20Hybrid%20Identity.pdf)  
-- 📑 [Lab Hybrid Identity - Choosing the Right Authentication Method (PDF)](https://perparimlabs.github.io/labs/hybrid-identity-choosing-authentication-method.pdf)  
+- 🖥 [Lab Demo – Integrating On-Prem AD with Microsoft 365 Domain Sync (PDF)](https://perparimlabs.github.io/labs/demo-integrate-onprem-entra365-sync.pdf)  
+- 🗒 [Lab Clean Before You Sync – Hybrid Identity Checklist (PDF)](https://perparimlabs.github.io/labs/Clean%20Before%20You%20Sync%20-%20Real-World%20Checklist%20for%20Hybrid%20Identity.pdf)  
+- 📑 [Lab Hybrid Identity – Choosing the Right Authentication Method (PDF)](https://perparimlabs.github.io/labs/hybrid-identity-choosing-authentication-method.pdf)  
 - 🗂 [Lab Planning Your First Hybrid Identity Sync (PDF)](https://perparimlabs.github.io/labs/plan-first-hybrid-identity-sync.pdf)  
-- 🔄 [Lab Microsoft Entra Connect vs. Cloud Sync - What's the Difference (PDF)](https://perparimlabs.github.io/labs/entra-connect-vs-cloud-sync.pdf)  
+- 🔄 [Lab Microsoft Entra Connect vs. Cloud Sync – What’s the Difference (PDF)](https://perparimlabs.github.io/labs/entra-connect-vs-cloud-sync.pdf)  
 - 🔐 [Advanced Identity Protection in Microsoft Entra ID (PDF)](https://perparimlabs.github.io/labs/advanced-identity-protection-entra-id.pdf)  
 - ⚠ [Why We Replace Security Defaults with Conditional Access (PDF)](https://perparimlabs.github.io/labs/replace-security-defaults-conditional-access.pdf)  
 - 🛡 [Manage Access to Enterprise Applications in Microsoft Entra (PDF)](https://perparimlabs.github.io/labs/manage-access-enterprise-apps.pdf)  
 - 🛠 [Troubleshooting Microsoft Entra Connect Health Sync Error (PDF)](https://perparimlabs.github.io/labs/troubleshoot-entra-connect-health.pdf)  
 - 🔏 [Lab Enable and Test MFA in Microsoft Entra ID (PDF)](https://perparimlabs.github.io/labs/enable-test-mfa-entra-id.pdf)  
-- 🔐 [Lab Enforce MFA for Specific App - Entra ID (PDF)](https://perparimlabs.github.io/labs/lab-enforce-mfa-specific-app-entra-id.pdf)  
+- 🔐 [Lab Enforce MFA for Specific App – Entra ID (PDF)](https://perparimlabs.github.io/labs/lab-enforce-mfa-specific-app-entra-id.pdf)  
 - 🗝 [Lab Choosing the Right Azure AD Authentication Method (PDF)](https://perparimlabs.github.io/labs/Choosing-the-Right-AzureAD-Authentication-Method.pdf)  
-- 🛡 [Lab Microsoft Entra ID Protection - User Risk Policy (PDF)](https://perparimlabs.github.io/labs/entra-id-protection-user-risk-policy-demo.pdf)  
-- 🔄 [Lab Microsoft Entra Connect - Hybrid Identity Sync (PDF)](https://perparimlabs.github.io/labs/microsoft-entra-connect-hybrid-identity-sync.pdf)  
+- 🛡 [Lab Microsoft Entra ID Protection – User Risk Policy (PDF)](https://perparimlabs.github.io/labs/entra-id-protection-user-risk-policy-demo.pdf)  
+- 🔄 [Lab Microsoft Entra Connect – Hybrid Identity Sync (PDF)](https://perparimlabs.github.io/labs/microsoft-entra-connect-hybrid-identity-sync.pdf)  
 - 🔐 [Secure Remote Access with Entra App Proxy (PDF)](https://perparimlabs.github.io/labs/secure-remote-access-app-proxy.pdf)  
 - 🛡 [Protecting Identities with Microsoft Entra ID Protection (PDF)](https://perparimlabs.github.io/labs/entra-id-protection-identities.pdf)  
 - 🗂 [Custom Azure RBAC Role for Key Vault Secrets Access (PDF)](https://perparimlabs.github.io/labs/custom-rbac-keyvault-access.pdf)  
@@ -85,7 +81,12 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 - 🔍 [Monitor Sign-Ins and Admin Activity in Microsoft Entra ID](https://perparimlabs.github.io/projects/monitor-sign-ins-admin-activity-entra.pdf)  
 - 🛡 [Get Proactive with Microsoft Sentinel](https://perparimlabs.github.io/projects/get-proactive-with-microsoft-sentinel.pdf)  
 - 📊 [Set Up Microsoft Sentinel + Log Analytics](https://perparimlabs.github.io/projects/set-up-microsoft-sentinel-log-analytics.pdf)  
-- 🏗 [Architecting Business Resilience in Azure & Microsoft 365](https://perparimlabs.github.io/projects/architecting-business-resilience.pdf)  
-- 🔐 [Designing a Ransomware Resilience Strategy in Azure & Microsoft 365](https://perparimlabs.github.io/projects/designing-a-ransomware-resilience-strategy.pdf)  
+- 🏢 [Architecting Business Resilience in Azure & Microsoft 365](https://perparimlabs.github.io/projects/architecting-business-resilience.pdf)  
+- 🔒 [Designing a Ransomware Resilience Strategy in Azure & Microsoft 365](https://perparimlabs.github.io/projects/designing-a-ransomware-resilience-strategy.pdf)  
 - 🛡 [Ransomware Defense Strategy: A Zero Trust & Microsoft Security Approach](https://perparimlabs.github.io/projects/ransomware-defense-strategy-zero-trust-and-microsoft-security.pdf)  
+
+---
+
+
+
 
