@@ -16,5 +16,6 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 - 🛡️[ Get Proactive with Microsoft Sentinel](get-proactive-with-microsoft-sentinel.pdf)
 - 🛡️[ Set Up Microsoft Sentinel + Log Analytics](set-up-microsoft-sentinel-log-analytics.pdf)
 - 📊[ Architecting Business Resilience in Azure & Microsoft 365](architecting-business-resilience.pdf)
-- 🛡️[ Designing a Ransomware Resilience Strategy in Azure & Microsoft 365](designing-a-ransomware-resilience-strategy.pdf)
+- 🔐 [Designing a Ransomware Resilience Strategy in Azure & Microsoft 365](designing-a-ransomware-resilience-strategy.pdf)
+
 
