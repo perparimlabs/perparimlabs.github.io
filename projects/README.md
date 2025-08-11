@@ -15,7 +15,7 @@ Victory belongs to the prepared.
 ---
 
 **Since 2011 – Always up for a challenge**  
-![14 Years on Chess.com](14-years.png)
+![14 Years on Chess.com](14-years.PNG)
 
 
   🔗 **Portfolio:** [https://perparimlabs.github.io](https://perparimlabs.github.io)
