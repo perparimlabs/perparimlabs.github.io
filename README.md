@@ -38,7 +38,7 @@ I share hands-on labs, architecture breakdowns, and Zero Trust strategies using:
 🎓 SC-100 in progress | Microsoft Certified: SC-300, AZ-305, AZ-104
 
 ---
-![14 Years of Strategy](projects/14-years.png)
+![14 Years of Strategy](projects/14-years.PNG)
 
 **14 Years of Strategy — From Chessboard to Cloud**  
 From competing on chess.com since 2011 to securing cloud identities, workloads, and data.  
