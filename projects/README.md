@@ -2,16 +2,23 @@
 
 Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and carousel posts adapted for long-form reading.
 
-# From Chessboard to AzureMate ♟️☁️
+# From Chessboard to AzureMate ♟️ ☁️
+
 ![Chess Journey](e4-d5-azure-mate.png)
 
 From a small wooden chessboard with my dad to securing identities, data, and workloads in Azure —  
 the game stayed the same: think ahead, control the board, protect what matters.  
 Victory belongs to the prepared.
 
-**Final move:** `e4 → d5 → AzureMate`  
+**Final move:** `e4 → d5 → AzureMate`
 
-🔗 **Portfolio:** [https://perparimlabs.github.io](https://perparimlabs.github.io)
+---
+
+**Since 2011 – Always up for a challenge**  
+![14 Years on Chess.com](14-years.png)
+
+
+  🔗 **Portfolio:** [https://perparimlabs.github.io](https://perparimlabs.github.io)
 
 
 -🏗️[ Architect a Secure, Scalable Azure Landing Zone for Enterprise Migration](architect-a-secure-scalable-azure-landing-zone-for-enterprise-migration.pdf)
