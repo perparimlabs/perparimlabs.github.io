@@ -37,6 +37,7 @@ Victory belongs to the prepared.
 - 📊[ Architecting Business Resilience in Azure & Microsoft 365](architecting-business-resilience.pdf)
 - 🔐 [Designing a Ransomware Resilience Strategy in Azure & Microsoft 365](designing-a-ransomware-resilience-stragegy.pdf)
 - 🚨 [Ransomware Defense Strategy: A Zero Trust & Microsoft Security Approach](ransomware-defense-strategy-zero-trust-and-microsoft-security.pdf)
+- [ZeroTrust Core Capabilities & Controls (PDF)](ZeroTrust-Core-Capabilities-Controls.pdf)
 
 
 
