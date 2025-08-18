@@ -113,6 +113,16 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 - 🛡 [Ransomware Defense Strategy: A Zero Trust & Microsoft Security Approach](https://perparimlabs.github.io/projects/ransomware-defense-strategy-zero-trust-and-microsoft-security.pdf)  
 
 ---
+## 🔐 Projects
+- [Zero Trust: Core Capabilities & Controls](Projects/ZeroTrust-Core-Capabilities-Controls.md)  
+  *Designed a Zero Trust security framework showcasing Microsoft’s core capabilities and controls for enterprises.*
+
+## 🧪 Labs
+- [Azure Backup & Recovery Lab](Labs/Azure-Backup-Recovery.md)  
+  *Configured Azure Backup vaults and tested VM recovery for business continuity.*  
+
+- [Patch Management with Azure Update Management](Labs/Azure-Update-Management.md)  
+  *Implemented update management for Windows VMs, automating security patching and compliance reporting.*  
 
 
 
