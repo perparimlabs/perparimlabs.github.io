@@ -88,10 +88,10 @@ Hands-on technical labs demonstrating:
 - 🛡 [Get Proactive with Microsoft Sentinel (PDF)](https://perparimlabs.github.io/labs/get-proactive-with-microsoft-sentinel.pdf)  
 - 📊 [Set Up Microsoft Sentinel + Log Analytics (PDF)](https://perparimlabs.github.io/labs/set-up-microsoft-sentinel-log-analytics.pdf)  
 - 🔄 [Migrate from Legacy MFA & SSPR to Microsoft Entra Authentication Methods (PDF)](https://perparimlabs.github.io/labs/migrate-from-legacy-mfa-sspr-entra-authentication-methods.pdf)  
-- [Azure Backup & Recovery Lab](Labs/Azure-Backup-Recovery.pdf)  
-  *Configured Azure Backup vaults and tested VM recovery for business continuity.*
-- [Patch Management with Azure Update Management](Labs/Azure-Update-Management.pdf)  
-  *Implemented update management for Windows VMs, automating security patching and compliance reporting.*  
+- [Azure Backup & Recovery Lab (PDF)](https://perparimlabs.github.io/labs/Azure-Backup-Recovery.pdf)  
+*Configured Azure Backup vaults and tested VM recovery for business continuity.*
+- [Patch Management with Azure Update Management (PDF)](https://perparimlabs.github.io/labs/Azure-Update-Management.pdf)  
+*Implemented update management for Windows VMs, automating security patching and compliance reporting.*
 ---
 
 ## 📂 Projects
@@ -114,9 +114,14 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 - 🏢 [Architecting Business Resilience in Azure & Microsoft 365](https://perparimlabs.github.io/projects/architecting-business-resilience.pdf)  
 - 🔒 [Designing a Ransomware Resilience Strategy in Azure & Microsoft 365](https://perparimlabs.github.io/projects/designing-a-ransomware-resilience-strategy.pdf)  
 - 🛡 [Ransomware Defense Strategy: A Zero Trust & Microsoft Security Approach](https://perparimlabs.github.io/projects/ransomware-defense-strategy-zero-trust-and-microsoft-security.pdf)  
-- [Zero Trust: Core Capabilities & Controls](Projects/ZeroTrust-Core-Capabilities-Controls.pdf)  
-  *Designed a Zero Trust security framework showcasing Microsoft’s core capabilities and controls for enterprises.*
+- [Zero Trust: Core Capabilities & Controls (PDF)](https://perparimlabs.github.io/projects/ZeroTrust-Core-Capabilities-Controls.pdf)  
+*Designed a Zero Trust security framework showcasing Microsoft’s core capabilities and controls for enterprises.*
 ---
+
+
+
+
+
 
 
 
