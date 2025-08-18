@@ -38,6 +38,10 @@ Hands-on technical labs demonstrating:
 - 🛡️[ Get Proactive with Microsoft Sentinel](get-proactive-with-microsoft-sentinel.pdf)
 - 🛡️[ Set Up Microsoft Sentinel + Log Analytics](set-up-microsoft-sentinel-log-analytics.pdf)
 - [Migrate from Legacy MFA & SSPR to Microsoft Entra Authentication Methods](migrate-from-legacy-mfa-sspr-entra-authentication-methods.pdf)
+- [Azure Backup & Recovery Lab (PDF)](Azure-Backup-Recovery.pdf)  
+*Configured Azure Backup vaults and tested VM recovery for business continuity.*
+- [Patch Management with Azure Update Management (PDF)](Azure-Update-Management.pdf)  
+*Implemented update management for Windows VMs, automating security patching and compliance reporting.*
 
 
 ---
