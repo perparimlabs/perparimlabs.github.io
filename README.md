@@ -112,7 +112,7 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 - 🛡 [Get Proactive with Microsoft Sentinel](https://perparimlabs.github.io/projects/get-proactive-with-microsoft-sentinel.pdf)  
 - 📊 [Set Up Microsoft Sentinel + Log Analytics](https://perparimlabs.github.io/projects/set-up-microsoft-sentinel-log-analytics.pdf)  
 - 🏢 [Architecting Business Resilience in Azure & Microsoft 365](https://perparimlabs.github.io/projects/architecting-business-resilience.pdf)  
-- 🔒 [Designing a Ransomware Resilience Strategy in Azure & Microsoft 365](https://perparimlabs.github.io/projects/designing-a-ransomware-resilience-strategy.pdf)  
+- 🔒 [Designing a Ransomware Resilience Strategy in Azure & Microsoft 365](https://perparimlabs.github.io/projects/designing-a-ransomware-resilience-stragegy.pdf)  
 - 🛡 [Ransomware Defense Strategy: A Zero Trust & Microsoft Security Approach](https://perparimlabs.github.io/projects/ransomware-defense-strategy-zero-trust-and-microsoft-security.pdf)  
 - [Zero Trust: Core Capabilities & Controls (PDF)](https://perparimlabs.github.io/projects/ZeroTrust-Core-Capabilities-Controls.pdf)  
 *Designed a Zero Trust security framework showcasing Microsoft’s core capabilities and controls for enterprises.*
