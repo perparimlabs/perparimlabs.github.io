@@ -60,7 +60,7 @@ Hands-on technical labs demonstrating:
 - 🖥 [Deploy Microsoft Global Secure Access Client (PDF)](https://perparimlabs.github.io/labs/deploy-global-secure-access-client.pdf)  
 - 🖥 [Lab Demo – Integrating On-Prem AD with Microsoft 365 Domain Sync (PDF)](https://perparimlabs.github.io/labs/demo-integrate-onprem-entra365-sync.pdf)  
 - 🗒 [Lab Clean Before You Sync – Hybrid Identity Checklist (PDF)](https://perparimlabs.github.io/labs/Clean%20Before%20You%20Syn%20-%20Real-World%20Checklist%20for%20Hybrid%20Identity.pdf)  
-- 📑 [Lab Hybrid Identity – Choosing the Right Authentication Method (PDF)](https://perparimlabs.github.io/labs/Hybrid%20Identity%20Choosing%20the%20Right%20Authentication%20Method.pdf)  
+- 📑 [Lab Hybrid Identity – Choosing the Right Authentication Method (PDF)](https://perparimlabs.github.io/labs/hybrid-identity-right-authentication-method.pdf)  
 - 🗂 [Lab Planning Your First Hybrid Identity Sync (PDF)](labs/plan-first-hybrid-identity-sync.pdf)
 - 🔄 [Lab Microsoft Entra Connect vs. Cloud Sync – What’s the Difference (PDF)](https://perparimlabs.github.io/labs/entra-connect-vs-cloud-sync.pdf)  
 - 🔐 [Advanced Identity Protection in Microsoft Entra ID (PDF)](https://perparimlabs.github.io/labs/advanced-identity-protection-entra-id.pdf)  
