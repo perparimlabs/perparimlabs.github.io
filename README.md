@@ -70,7 +70,7 @@ Hands-on technical labs demonstrating:
 - 🔏 [Lab Enable and Test MFA in Microsoft Entra ID (PDF)](https://perparimlabs.github.io/labs/enable-test-mfa-entra-id.pdf)  
 - 🔐 [Lab Enforce MFA for Specific App – Entra ID (PDF)](https://perparimlabs.github.io/labs/Lab-Enforce-MFA-for-Specific-App---Entra-ID.pdf)  
 - 🗝 [Lab Choosing the Right Azure AD Authentication Method (PDF)](https://perparimlabs.github.io/labs/Choosing-the-Right-AzureAD-Authentication-Method.pdf)  
-- 🛡 [Lab Microsoft Entra ID Protection – User Risk Policy (PDF)](https://perparimlabs.github.io/labs/entra-id-protection-user-risk-policy-demo.pdf)  
+- 🛡 [Lab Microsoft Entra ID Protection – User Risk Policy (PDF)](https://perparimlabs.github.io/labs/Entra-ID-Protection-User-Risk-Policy-Demo.pdf)  
 - 🔄 [Lab Microsoft Entra Connect – Hybrid Identity Sync (PDF)](https://perparimlabs.github.io/labs/Microsoft-Entra-Connect-Hybrid-Identity-Sync.pdf)  
 - 🔐 [Secure Remote Access with Entra App Proxy (PDF)](https://perparimlabs.github.io/labs/secure-remote-access-app-proxy.pdf)  
 - 🛡 [Protecting Identities with Microsoft Entra ID Protection (PDF)](https://perparimlabs.github.io/labs/entra-id-protection-identities.pdf)  
