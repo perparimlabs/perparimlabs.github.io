@@ -10,7 +10,7 @@ Hands-on technical labs demonstrating:
 - 🛰️ [Deploy Microsoft Global Secure Access Client (PDF)](deploy-global-secure-access-client.pdf)
 - 🔄 [Lab Demo – Integrating On-Prem AD with Microsoft 365 Domain Sync (PDF)](demo-integrate-onprem-entra365-sync.pdf)
 - 🧼 [Lab Clean Before You Sync – Hybrid Identity Checklist (PDF)](Clean%20Before%20You%20Syn%20-%20Real-World%20Checklist%20for%20Hybrid%20Identity.pdf)
-- 🔐 [Lab Hybrid Identity – Choosing the Right Authentication Method (PDF)](Hybrid%20Identity%20Choosing%20the%20Right%20Authentication%20Method.pdf)
+- 🔐 [Lab Hybrid Identity – Choosing the Right Authentication Method (PDF)](hybrid-identity-right-authentication-method.pdf)
 - 🧭 [Lab Planning Your First Hybrid Identity Sync (PDF)](plan-first-hybrid-identity-sync.pdf)
 - 🧪 [Lab Microsoft Entra Connect vs. Cloud Sync – What’s the Difference (PDF)](entra-connect-vs-cloud-sync.pdf)
 - 🔐 [Advanced Identity Protection in Microsoft Entra ID (PDF)](advanced-identity-protection-entra-id.pdf)
