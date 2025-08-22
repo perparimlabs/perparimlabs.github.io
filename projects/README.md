@@ -45,6 +45,7 @@ Victory belongs to the prepared.
 
 
 
+
 ---
 
 © **#PerparimLabs** – Built with passion for **Azure, Microsoft Security, and the Cloud Community**.  
