@@ -117,6 +117,7 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 - [Zero Trust: Core Capabilities & Controls (PDF)](https://perparimlabs.github.io/projects/ZeroTrust-Core-Capabilities-Controls.pdf)  
 *Designed a Zero Trust security framework showcasing Microsoft’s core capabilities and controls for enterprises.*
 - [Microsoft 365 Defender: Protecting Against Insider & External Attacks](https://perparimlabs.github.io/projects/microsoft-365-defender-insider-external-attacks.pdf)
+- 🛡️ [Navigating Microsoft Defender & Purview with Insider Risk Management](https://perparimlabs.github.io/projects/Defender-Purview-IRM-Lab.pdf)
 
 
 
