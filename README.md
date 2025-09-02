@@ -119,7 +119,7 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 - [Microsoft 365 Defender: Protecting Against Insider & External Attacks](https://perparimlabs.github.io/projects/microsoft-365-defender-insider-external-attacks.pdf)
 - 🛡️ [Navigating Microsoft Defender & Purview with Insider Risk Management](https://perparimlabs.github.io/projects/Defender-Purview-IRM-Lab.pdf)
 - [Deep Dive Insider Risk Management in Microsoft Purview](https://perparimlabs.github.io/projects/Insider-Risk-Management-Purview.pdf)
-
+-🔒 [Zero Trust Rapid Modernization Plan (RaMP)](https://perparimlabs.github.io/projects/Zero-Trust-Rapid-Modernization-Plan.pdf)
 
 
 ---
