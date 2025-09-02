@@ -40,7 +40,7 @@ Victory belongs to the prepared.
 - [ZeroTrust Core Capabilities & Controls (PDF)](ZeroTrust-Core-Capabilities-Controls.pdf)
 - [Microsoft 365 Defender: Protecting Against Insider & External Attacks](./microsoft-365-defender-insider-external-attacks.pdf)
 - 🛡️ [Navigating Microsoft Defender & Purview with Insider Risk Management](./Defender-Purview-IRM-Lab.pdf)
-
+[Deep Dive Insider Risk Management in Microsoft Purview](https://perparimlabs.github.io/Insider-Risk-Management-Purview.pdf)
 
 
 
