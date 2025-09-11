@@ -121,7 +121,7 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 - [Deep Dive Insider Risk Management in Microsoft Purview](https://perparimlabs.github.io/projects/Insider-Risk-Management-Purview.pdf)
 - 🛡 [Zero Trust Rapid Modernization Plan (RaMP)](https://perparimlabs.github.io/projects/Zero-Trust-Rapid-Modernization-Plan.pdf)
 - 🔒 [Secure Cloud Adoption with Microsoft CAF](https://perparimlabs.github.io/projects/Secure-Cloud-Adoption-with-Microsoft-CAF.pdf)
-
+- [Applying the Azure Well-Architected Framework for Secure Cloud governance](https://perparimlabs.github.io/projects/applying-azure-well-architected-framwork-for-secure-cloud-governance.pdf)
 ---
 
 
