@@ -122,7 +122,14 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 - 🛡 [Zero Trust Rapid Modernization Plan (RaMP)](https://perparimlabs.github.io/projects/Zero-Trust-Rapid-Modernization-Plan.pdf)
 - 🔒 [Secure Cloud Adoption with Microsoft CAF](https://perparimlabs.github.io/projects/Secure-Cloud-Adoption-with-Microsoft-CAF.pdf)
 - [Applying the Azure Well-Architected Framework for Secure Cloud governance](https://perparimlabs.github.io/projects/applying-azure-well-architected-framwork-for-secure-cloud-governance.pdf)
+- [Implementing Security & Governance with Azure Landing Zones](https://perparimlabs.github.io/projects/Implementing-Security-And-Governance-with-Azure-Landing-Zones.pdf)
+
+
+
+
+
 ---
+
 
 
 
