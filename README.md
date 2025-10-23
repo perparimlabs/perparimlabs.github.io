@@ -129,7 +129,7 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 - [Applying the Azure Well-Architected Framework for Secure Cloud governance](https://perparimlabs.github.io/projects/applying-azure-well-architected-framwork-for-secure-cloud-governance.pdf)
 - [Implementing Security & Governance with Azure Landing Zones](https://perparimlabs.github.io/projects/Implementing-Security-And-Governance-with-Azure-Landing-Zones.pdf)
 - [Security Operations in Hybrid & Multi-Cloud Encironments](https://perparimlabs.github.io/projects/Security-Operations-in-Hybrid-And-Multi-Cloud-Environments.pdf)
-
+- [What is Extanded Detection and Response (XDR)](https://perparimlabs.github.io/projects/projects/What-is-Extended-Detection-and-Response-(XDR).pdf)
 
 
 
