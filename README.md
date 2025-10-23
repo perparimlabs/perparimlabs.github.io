@@ -133,8 +133,8 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 - [Implementing Security & Governance with Azure Landing Zones](https://perparimlabs.github.io/projects/Implementing-Security-And-Governance-with-Azure-Landing-Zones.pdf)
 - [Security Operations in Hybrid & Multi-Cloud Encironments](https://perparimlabs.github.io/projects/Security-Operations-in-Hybrid-And-Multi-Cloud-Environments.pdf)
 - [What is Extanded Detection and Response (XDR)](https://perparimlabs.github.io/projects/What-is-Extended-Detection-and-Response-(XDR).pdf)
-- [What is Microsoft Sentinel (SIEM & SOAR)](https://perparimlabs.io/projects/What-is-Microsoft-Sentinel-(SIEM&SOAR).pdf)
-- [Mapping Threates with MITRA ATT&CK in](https://perparimlabs.io/proejcts/Mapping-Threats-with-MITRE-ATT&CK-in.pdf)
+- [What is Microsoft Sentinel (SIEM & SOAR)](https://perparimlabs.github.io/projects/What-is-Microsoft-Sentinel-(SIEM&SOAR).pdf)
+- [Mapping Threates with MITRA ATT&CK in](https://perparimlabs.github.io/projects/Mapping-Threats-with-MITRE-ATT&CK-in.pdf)
 
 ---
 
