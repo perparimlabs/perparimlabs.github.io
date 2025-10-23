@@ -1,6 +1,8 @@
 <p align="center">
   <img src="perparimlabs-banner.png" alt="PerparimLabs Banner" style="max-width:100%;">
 </p>
+> Real-world Azure Security, Zero Trust, and Microsoft Entra projects — built and shared for the cloud community.
+
 
 # 👋 Welcome to PerparimLabs
 
