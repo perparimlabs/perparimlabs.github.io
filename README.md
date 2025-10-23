@@ -92,7 +92,7 @@ Hands-on technical labs demonstrating:
 *Configured Azure Backup vaults and tested VM recovery for business continuity.*
 - [Patch Management with Azure Update Management (PDF)](https://perparimlabs.github.io/labs/Azure-Update-Management.pdf)  
 *Implemented update management for Windows VMs, automating security patching and compliance reporting.*
-- [Enabling Microsoft Purview Auditing Permissions Plus Setup](https://perparimlabs.github.io/labs/labs/Enabling-Microsoft-Purview-Auditing-Permissions-Plus-Setup.pdf)
+- [Enabling Microsoft Purview Auditing Permissions Plus Setup](https://perparimlabs.github.io/labs/Enabling-Microsoft-Purview-Auditing-Permissions-Plus-Setup.pdf)
 
 
 
@@ -129,7 +129,7 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 - [Applying the Azure Well-Architected Framework for Secure Cloud governance](https://perparimlabs.github.io/projects/applying-azure-well-architected-framwork-for-secure-cloud-governance.pdf)
 - [Implementing Security & Governance with Azure Landing Zones](https://perparimlabs.github.io/projects/Implementing-Security-And-Governance-with-Azure-Landing-Zones.pdf)
 - [Security Operations in Hybrid & Multi-Cloud Encironments](https://perparimlabs.github.io/projects/Security-Operations-in-Hybrid-And-Multi-Cloud-Environments.pdf)
-- [What is Extanded Detection and Response (XDR)](https://perparimlabs.github.io/projects/projects/What-is-Extended-Detection-and-Response-(XDR).pdf)
+- [What is Extanded Detection and Response (XDR)](https://perparimlabs.github.io/projects/What-is-Extended-Detection-and-Response-(XDR).pdf)
 
 
 
