@@ -99,6 +99,12 @@ Hands-on technical labs demonstrating:
 - [Automating incident Response in Microsoft Sentinel](https://perparimlabs.github.io/labs/Automationg-Incident-Response-in-Microsoft-Sentinel.pdf)
 - [Threat Hunting in Microsoft Sentinel](https://perparimlabs.github.io/labs/Threat-Hunting-in-Microsoft-Sentinel.pdf)
 - [Detecting and Responding to Identity Risks with Microsoft Entra ID](https://perparimlabs.github.io/labs/Detecting-and-Responding-to-Indentity-Risk-with-Microsoft-EntraID.pdf)
+- [Automate Microsoft Defender for Cloud Alert with Logic App](https://perparimlabs.github.io/labs/Automate-Microsoft-Defender-for-Cloud-Alert-with-Logic-App.pdf)
+
+
+
+
+
 
 ---
 
