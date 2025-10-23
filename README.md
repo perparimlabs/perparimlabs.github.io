@@ -136,7 +136,16 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 - [What is Microsoft Sentinel (SIEM & SOAR)](https://perparimlabs.github.io/projects/What-is-Microsoft-Sentinel-(SIEM&SOAR).pdf)
 - [Mapping Threates with MITRA ATT&CK in](https://perparimlabs.github.io/projects/Mapping-Threats-with-MITRE-ATT&CK-in.pdf)
 - [Investigating Identity Risks with Microsoft 365 Defender](https://perparimlabs.github.io/projects/Investigating-Identity-Risks-with-Microsoft-365-Defender.pdf)
+- [Understanding Roles & Permisions in Microsoft Sentinel](https://perparimlabs.github.io/projects/Understanding-Roles&Permissions-in-Microsoft-Sentinel.pdf)
+
+
+
+
+
+
 ---
+
+
 
 
 
