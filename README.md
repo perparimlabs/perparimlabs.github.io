@@ -97,7 +97,7 @@ Hands-on technical labs demonstrating:
 - [Build your first Analytics Rule in Microsoft Sentinel](https://perparimlabs.github.io/labs/Build-Your-First-Analytics-Rule-in-Microsoft-Sentinel.pdf)
 - [Build an NRT (Near-real time) Analytics Rule](https://perparimlabs.github.io/labs/Build-an-NRT-Analytics-Rule.pdf)
 - [Automating incident Response in Microsoft Sentinel](https://perparimlabs.github.io/labs/Automationg-Incident-Response-in-Microsoft-Sentinel.pdf)
-
+- [Threat Hunting in Microsoft Sentinel](https://perparimlabs.github.io/labs/Threat-Hunting-in-Microsoft-Sentinel.pdf)
 
 
 ---
