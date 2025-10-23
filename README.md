@@ -92,7 +92,7 @@ Hands-on technical labs demonstrating:
 *Configured Azure Backup vaults and tested VM recovery for business continuity.*
 - [Patch Management with Azure Update Management (PDF)](https://perparimlabs.github.io/labs/Azure-Update-Management.pdf)  
 *Implemented update management for Windows VMs, automating security patching and compliance reporting.*
-- [Enabling Microsoft Purview Auditing Permissions Plus Setup](https://perparimlabs.github.io/labs/Enabling-Microsoft-Purview-Auditing-Permissions-Plus-Setup)
+- [Enabling Microsoft Purview Auditing Permissions Plus Setup](https://perparimlabs.github.io/labs/labs/Enabling-Microsoft-Purview-Auditing-Permissions-Plus-Setup.pdf)
 
 
 
