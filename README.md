@@ -95,7 +95,7 @@ Hands-on technical labs demonstrating:
 - [Enabling Microsoft Purview Auditing Permissions Plus Setup](https://perparimlabs.github.io/labs/Enabling-Microsoft-Purview-Auditing-Permissions-Plus-Setup.pdf)
 - [Build the Log Analytics Workspace](https://perparimlabs.github.io/labs/Build-Log-Analytics-Workspace.pdf)
 - [Build your first Analytics Rule in Microsoft Sentinel](https://perparimlabs.github.io/labs/Build-Your-First-Analytics-Rule-in-Microsoft-Sentinel.pdf)
-- [Build an NRT (Near-real time) Analytics Rule](https://perparimlabs.github.io/labs/labs/Build-an-NRT-Analytics-Rule.pdf)
+- [Build an NRT (Near-real time) Analytics Rule](https://perparimlabs.github.io/labs/Build-an-NRT-Analytics-Rule.pdf)
 
 
 
