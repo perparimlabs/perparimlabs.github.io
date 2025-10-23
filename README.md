@@ -135,7 +135,7 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 - [What is Extanded Detection and Response (XDR)](https://perparimlabs.github.io/projects/What-is-Extended-Detection-and-Response-(XDR).pdf)
 - [What is Microsoft Sentinel (SIEM & SOAR)](https://perparimlabs.github.io/projects/What-is-Microsoft-Sentinel-(SIEM&SOAR).pdf)
 - [Mapping Threates with MITRA ATT&CK in](https://perparimlabs.github.io/projects/Mapping-Threats-with-MITRE-ATT&CK-in.pdf)
-
+- [Investigating Identity Risks with Microsoft 365 Defender](https://perparimlabs.github.io/projects/Investigating-Identity-Risks-with-Microsoft-365-Defender.pdf)
 ---
 
 
