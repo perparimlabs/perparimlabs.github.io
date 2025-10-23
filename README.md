@@ -93,7 +93,7 @@ Hands-on technical labs demonstrating:
 - [Patch Management with Azure Update Management (PDF)](https://perparimlabs.github.io/labs/Azure-Update-Management.pdf)  
 *Implemented update management for Windows VMs, automating security patching and compliance reporting.*
 - [Enabling Microsoft Purview Auditing Permissions Plus Setup](https://perparimlabs.github.io/labs/Enabling-Microsoft-Purview-Auditing-Permissions-Plus-Setup.pdf)
-
+- [Build the Log Analytics Workspace](https://perparimlabs.github.io/labs/Build-Log-Analytics-Workspace.pdf)
 
 
 
@@ -130,7 +130,7 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 - [Implementing Security & Governance with Azure Landing Zones](https://perparimlabs.github.io/projects/Implementing-Security-And-Governance-with-Azure-Landing-Zones.pdf)
 - [Security Operations in Hybrid & Multi-Cloud Encironments](https://perparimlabs.github.io/projects/Security-Operations-in-Hybrid-And-Multi-Cloud-Environments.pdf)
 - [What is Extanded Detection and Response (XDR)](https://perparimlabs.github.io/projects/What-is-Extended-Detection-and-Response-(XDR).pdf)
-
+- [What is Microsoft Sentinel (SIEM & SOAR)](https://perparimlabs.io/projects/What-is-Microsoft-Sentinel-(SIEM&SOAR).pdf)
 
 
 ---
