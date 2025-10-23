@@ -32,7 +32,7 @@ I share hands-on labs, architecture breakdowns, and Zero Trust strategies using:
 - 🔐 **Conditional Access & Identity Protection**
 - 🛡 **Microsoft Defender for Cloud**
 - 🔄 **Hybrid Identity & Entra Connect**
-- 🧪 **SC-300 & SC-100 lab demos**
+- 📊 **Microsoft Sentinel (SIEM & SOAR)**
 - 🧵 LinkedIn carousel breakdowns
 
 📍 Based in Louisville, KY (US)  
