@@ -98,7 +98,7 @@ Hands-on technical labs demonstrating:
 - [Build an NRT (Near-real time) Analytics Rule](https://perparimlabs.github.io/labs/Build-an-NRT-Analytics-Rule.pdf)
 - [Automating incident Response in Microsoft Sentinel](https://perparimlabs.github.io/labs/Automationg-Incident-Response-in-Microsoft-Sentinel.pdf)
 - [Threat Hunting in Microsoft Sentinel](https://perparimlabs.github.io/labs/Threat-Hunting-in-Microsoft-Sentinel.pdf)
-
+- [Detecting and Responding to Identity Risks with Microsoft Entra ID](https://perparimlabs.github.io/labs/Detecting-and-Responding-to-Indentity-Risk-with-Microsoft-EntraID.pdf)
 
 ---
 
