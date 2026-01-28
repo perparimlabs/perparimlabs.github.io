@@ -145,7 +145,7 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 - [Mapping Threates with MITRA ATT&CK in](https://perparimlabs.github.io/projects/Mapping-Threats-with-MITRE-ATT&CK-in.pdf)
 - [Investigating Identity Risks with Microsoft 365 Defender](https://perparimlabs.github.io/projects/Investigating-Identity-Risks-with-Microsoft-365-Defender.pdf)
 - [Understanding Roles & Permisions in Microsoft Sentinel](https://perparimlabs.github.io/projects/Understanding-Roles&Permissions-in-Microsoft-Sentinel.pdf)
--[Hybrid Threat Detection-with-Microsoft-Defender-for-Identity](https://perparimlabs.github.io/projects/Hybrid-Threat-Detection-with-Microsoft-Defender-for-Identity.pdf)
+- [Hybrid Threat Detection-with-Microsoft-Defender-for-Identity](https://perparimlabs.github.io/projects/Hybrid-Threat-Detection-with-Microsoft-Defender-for-Identity.pdf)
 
 
 
