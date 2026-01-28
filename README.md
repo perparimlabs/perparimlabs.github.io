@@ -104,7 +104,7 @@ Hands-on technical labs demonstrating:
 - [Automate Microsoft Defender for Cloud Alert with Logic App](https://perparimlabs.github.io/labs/Automate-Microsoft-Defender-for-Cloud-Alert-with-Logic-App.pdf)
 - [Automate Microsoft Defender for Cloud (Part 2)](https://perparimlabs.github.io/labs/Automate-Microsoft-Defender-for-Cloud-(Part2).pdf)
 - [Privileged Identity Management (PIM) Just-in-Time Access in Action](https://perparimlabs.github.io/labs/Privileged-Identity-Management-(PIM)-Just-in-Time-Access-in-Action.pdf)
-
+- [Build a Secure Access Catalog in Microsoft Entra ID](https://perparimlabs.github.io/labs/Build-a-Secure-Access-Catalog-in-Microsoft-Entra.pdf)
 
 
 
