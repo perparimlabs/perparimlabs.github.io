@@ -159,8 +159,8 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 - [Unified Data Governance with Microsoft Purview Part 1](https://perparimlabs.github.io/projects/Unified-Data-Governance-with-Microsoft-Purview.pdf)
 - [Protect Privacy at Scale with Microsoft Priva Part 2](https://perparimlabs.github.io/projects/Protect-Privacy-at-Scale-with-Microsoft-Priva.pdf)
 - [Ensure Azure Resource Compliance with Azure Policy Part 3](https://perparimlabs.github.io/projects/Ensure-Azure-Resource-Compliance-with-Azure-Policy.pdf)
-- [Ellevate Your Cloud Security Posture with Microsoft Defender for Cloud Part 1](https://perparimlabs.github.io/projects/Elevate-Your-Cloud-Security-Posture-with-Microsoft-Defender-for-Cloud.pdf)
-
+- [Elevate Your Cloud Security Posture with Microsoft Defender for Cloud Part 1](https://perparimlabs.github.io/projects/Elevate-Your-Cloud-Security-Posture-with-Microsoft-Defender-for-Cloud.pdf)
+- [Extending Workload Protection with Microsoft Defender for Cloud Part 2](https://perparimlabs.io/projects/Extending-Workload-Protection-with-Microsoft-Defender-for-Cloud.pdf)
 
 
 ---
