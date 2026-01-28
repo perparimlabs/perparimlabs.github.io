@@ -161,7 +161,7 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 - [Ensure Azure Resource Compliance with Azure Policy Part 3](https://perparimlabs.github.io/projects/Ensure-Azure-Resource-Compliance-with-Azure-Policy.pdf)
 - [Elevate Your Cloud Security Posture with Microsoft Defender for Cloud Part 1](https://perparimlabs.github.io/projects/Elevate-Your-Cloud-Security-Posture-with-Microsoft-Defender-for-Cloud.pdf)
 - [Extending Workload Protection with Microsoft Defender for Cloud Part 2](https://perparimlabs.github.io/projects/Extending-Workload-Protection-with-Microsoft-Defender-for-Cloud.pdf)
-
+- [Extending Security Visibility Beyond Azure Part 3](https://perparimlabs.git.io/projects/Extending-Workload-Protection-with-Microsoft-Defender-for-Cloud.pdf)
 
 ---
 
