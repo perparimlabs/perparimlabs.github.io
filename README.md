@@ -157,7 +157,7 @@ Real-world Azure & Entra architecture breakdowns, Zero Trust strategies, and car
 - [Designing Access Control Strategy with Microsoft Entra And Azure RBAC](https://perparimlabs.github.io/projects/Designing-Access-Control-Strategy-with-Microsoft-Entra-And-Azure-RBAC.pdf)
 - [Privileged Access Workstations PAW Plus Azure Bastion](https://perparimlabs.github.io/projects/Privileged-Access-Workstations-(PAW)-plus-Azure-Bastion.pdf)
 - [Unified Data Governance with Microsoft Purview Part 1](https://perparimlabs.github.io/projects/Unified-Data-Governance-with-Microsoft-Purview.pdf)
-
+- [Protect Privacy at Scale with Microsoft Priva Part 2](https://perparimlabs.github.io/projects/Protect-Privacy-at-Scale-with-Microsoft-Priva.pdf)
 
 
 
